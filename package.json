@@ -2,6 +2,7 @@
   "name": "folioment",
   "version": "0.0.0",
   "dependencies": {
+    "run-sequence": "^1.1.5",
     "wiredep": "^4.0.0"
   },
   "scripts": {

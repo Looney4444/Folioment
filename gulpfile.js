@@ -7,6 +7,7 @@
 'use strict';
 
 var gulp = require('gulp');
+var runSeq = require('run-sequence');
 var wrench = require('wrench');
 
 /**
@@ -25,12 +26,9 @@ wrench.readdirSyncRecursive('./gulp').filter(function(file) {
  *  main optimization build task
  */
 gulp.task('default', ['clean'], function () {
-  gulp.start('clean');
-  gulp.start('inject');
-  gulp.start('build');
-  gulp.start('serve');
+  runSeq('clean','inject','build','serve')
 });
 
 gulp.task('heroku:production', function(){
-  runSeq('clean', 'inject', 'build')
+  runSeq('clean', 'inject','build')
 })
