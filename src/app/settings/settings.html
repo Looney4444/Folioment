@@ -1,0 +1,29 @@
+<div class="container">
+
+  <div class="col-lg-1">
+  </div>
+
+  <!-- Main component for a primary marketing message or call to action -->
+  <div class="jumbotron col-lg-10">
+    <h3>Settings</h3>
+    <label>Amount Invested:</label>
+    <input ng-model="settings.amount" class="form-control">
+    <label>Risk:</label>
+    <br>
+    <div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        {{settings.selected.label}} <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu">
+        <li ng-model="settings.selected" ng-repeat="percent in settings.percents">
+          <a href ng-click="settings.selected = percent">{{percent.label}}</a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="col-lg-1">
+  </div>
+
+</div>

@@ -1,0 +1,1921 @@
+[
+  {
+    "risk": 0.0 ,
+    "volatility": 0.4409 ,
+    "expectedReturn": 0.1378 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 1.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.0 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0
+    }
+  } ,
+  {
+    "risk": 0.71 ,
+    "volatility": 13.9129 ,
+    "expectedReturn": 5.2388 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.1308 ,
+      "EMERGING_MARKETS_STOCKS": 0.0649 ,
+      "US_CORPORATE_BONDS": 0.0499 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0367 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0419 ,
+      "INTERNATIONAL_BONDS": 0.0998 ,
+      "US_HIGH_QUALITY_BONDS": 0.0998 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1309 ,
+      "EMERGING_MARKETS_BONDS": 0.0405 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3048 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0
+    }
+  } ,
+  {
+    "risk": 0.53 ,
+    "volatility": 11.6582 ,
+    "expectedReturn": 4.4643 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.169 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0294 ,
+      "US_CORPORATE_BONDS": 0.08 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1051 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2124 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0336 ,
+      "INFLATION_PROTECTED_BONDS": 0.014 ,
+      "EMERGING_MARKETS_STOCKS": 0.0445 ,
+      "EMERGING_MARKETS_BONDS": 0.056 ,
+      "INTERNATIONAL_BONDS": 0.151 ,
+      "US_TOTAL_MARKET_STOCKS": 0.105
+    }
+  } ,
+  {
+    "risk": 0.44 ,
+    "volatility": 10.4503 ,
+    "expectedReturn": 4.0133 ,
+    "allocations": {
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0252 ,
+      "INTERNATIONAL_BONDS": 0.1666 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_CORPORATE_BONDS": 0.091 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0288 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0901 ,
+      "INFLATION_PROTECTED_BONDS": 0.0466 ,
+      "EMERGING_MARKETS_BONDS": 0.0586 ,
+      "EMERGING_MARKETS_STOCKS": 0.0356 ,
+      "US_TOTAL_MARKET_STOCKS": 0.09 ,
+      "US_HIGH_QUALITY_BONDS": 0.1973 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1702
+    }
+  } ,
+  {
+    "risk": 0.09 ,
+    "volatility": 3.2185 ,
+    "expectedReturn": 1.1829 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.0953 ,
+      "SHORT_TERM_TREASURIES": 0.5313 ,
+      "US_CORPORATE_BONDS": 0.0522 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0065 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0307 ,
+      "EMERGING_MARKETS_BONDS": 0.0222 ,
+      "US_HIGH_QUALITY_BONDS": 0.1247 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0057 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0204 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0204 ,
+      "EMERGING_MARKETS_STOCKS": 0.0064 ,
+      "INTERNATIONAL_BONDS": 0.0842
+    }
+  } ,
+  {
+    "risk": 0.9 ,
+    "volatility": 16.3265 ,
+    "expectedReturn": 6.0003 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.3747 ,
+      "EMERGING_MARKETS_STOCKS": 0.1051 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0157 ,
+      "US_HIGH_QUALITY_BONDS": 0.0317 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0517 ,
+      "INTERNATIONAL_BONDS": 0.0357 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0453 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1616 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1616 ,
+      "US_CORPORATE_BONDS": 0.0169
+    }
+  } ,
+  {
+    "risk": 0.96 ,
+    "volatility": 17.104 ,
+    "expectedReturn": 6.2364 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.3959 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0547 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.171 ,
+      "EMERGING_MARKETS_BONDS": 0.0065 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1709 ,
+      "US_CORPORATE_BONDS": 0.0067 ,
+      "EMERGING_MARKETS_STOCKS": 0.1195 ,
+      "US_HIGH_QUALITY_BONDS": 0.0124 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0479 ,
+      "INTERNATIONAL_BONDS": 0.0145
+    }
+  } ,
+  {
+    "risk": 0.36 ,
+    "volatility": 9.011 ,
+    "expectedReturn": 3.4539 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1604 ,
+      "EMERGING_MARKETS_STOCKS": 0.0283 ,
+      "EMERGING_MARKETS_BONDS": 0.0535 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1351 ,
+      "US_HIGH_QUALITY_BONDS": 0.1999 ,
+      "US_CORPORATE_BONDS": 0.0901 ,
+      "INFLATION_PROTECTED_BONDS": 0.0732 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0242 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0212 ,
+      "SHORT_TERM_TREASURIES": 0.0629 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0756 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0756
+    }
+  } ,
+  {
+    "risk": 0.88 ,
+    "volatility": 16.0687 ,
+    "expectedReturn": 5.9211 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0203 ,
+      "EMERGING_MARKETS_BONDS": 0.0186 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1585 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0507 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3676 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0444 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1584 ,
+      "US_HIGH_QUALITY_BONDS": 0.0384 ,
+      "INTERNATIONAL_BONDS": 0.0427 ,
+      "EMERGING_MARKETS_STOCKS": 0.1004
+    }
+  } ,
+  {
+    "risk": 0.18 ,
+    "volatility": 5.2317 ,
+    "expectedReturn": 1.9751 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0693 ,
+      "SHORT_TERM_TREASURIES": 0.3375 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0398 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0398 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0633 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0111 ,
+      "EMERGING_MARKETS_STOCKS": 0.0132 ,
+      "INFLATION_PROTECTED_BONDS": 0.103 ,
+      "US_HIGH_QUALITY_BONDS": 0.1614 ,
+      "INTERNATIONAL_BONDS": 0.1156 ,
+      "EMERGING_MARKETS_BONDS": 0.0333 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0127
+    }
+  } ,
+  {
+    "risk": 0.79 ,
+    "volatility": 14.9186 ,
+    "expectedReturn": 5.5621 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0807 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0461 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.144 ,
+      "US_CORPORATE_BONDS": 0.0358 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3348 ,
+      "EMERGING_MARKETS_BONDS": 0.0309 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0403 ,
+      "INTERNATIONAL_BONDS": 0.0734 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1441 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.0699
+    }
+  } ,
+  {
+    "risk": 0.26 ,
+    "volatility": 6.9271 ,
+    "expectedReturn": 2.6398 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1372 ,
+      "EMERGING_MARKETS_STOCKS": 0.0197 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0158 ,
+      "EMERGING_MARKETS_BONDS": 0.0424 ,
+      "US_CORPORATE_BONDS": 0.0798 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.018 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0563 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0563 ,
+      "US_HIGH_QUALITY_BONDS": 0.1821 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.094 ,
+      "INFLATION_PROTECTED_BONDS": 0.0948 ,
+      "SHORT_TERM_TREASURIES": 0.2036
+    }
+  } ,
+  {
+    "risk": 0.61 ,
+    "volatility": 12.6848 ,
+    "expectedReturn": 4.8288 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.2525 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0328 ,
+      "INTERNATIONAL_BONDS": 0.1314 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0375 ,
+      "EMERGING_MARKETS_STOCKS": 0.0529 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1172 ,
+      "US_HIGH_QUALITY_BONDS": 0.1399 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1171 ,
+      "US_CORPORATE_BONDS": 0.0678 ,
+      "EMERGING_MARKETS_BONDS": 0.0509
+    }
+  } ,
+  {
+    "risk": 1.0 ,
+    "volatility": 17.5927 ,
+    "expectedReturn": 6.383 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.4098 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0496 ,
+      "EMERGING_MARKETS_STOCKS": 0.1296 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1772 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1771 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0567
+    }
+  } ,
+  {
+    "risk": 0.72 ,
+    "volatility": 14.0376 ,
+    "expectedReturn": 5.2794 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0668 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0424 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.0965 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1326 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1326 ,
+      "US_HIGH_QUALITY_BONDS": 0.0959 ,
+      "EMERGING_MARKETS_BONDS": 0.0394 ,
+      "US_CORPORATE_BONDS": 0.0481 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3086 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0371
+    }
+  } ,
+  {
+    "risk": 0.1 ,
+    "volatility": 3.4538 ,
+    "expectedReturn": 1.2755 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.0342 ,
+      "EMERGING_MARKETS_BONDS": 0.0235 ,
+      "SHORT_TERM_TREASURIES": 0.5061 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0226 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0226 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0072 ,
+      "EMERGING_MARKETS_STOCKS": 0.0072 ,
+      "INTERNATIONAL_BONDS": 0.0883 ,
+      "INFLATION_PROTECTED_BONDS": 0.0975 ,
+      "US_CORPORATE_BONDS": 0.0546 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0063 ,
+      "US_HIGH_QUALITY_BONDS": 0.1299
+    }
+  } ,
+  {
+    "risk": 0.01 ,
+    "volatility": 0.8347 ,
+    "expectedReturn": 0.273 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0007 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0007 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0023 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0023 ,
+      "INTERNATIONAL_BONDS": 0.0305 ,
+      "SHORT_TERM_TREASURIES": 0.8439 ,
+      "EMERGING_MARKETS_BONDS": 0.0073 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0006 ,
+      "US_CORPORATE_BONDS": 0.0195 ,
+      "INFLATION_PROTECTED_BONDS": 0.0414 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0033 ,
+      "US_HIGH_QUALITY_BONDS": 0.0475
+    }
+  } ,
+  {
+    "risk": 0.52 ,
+    "volatility": 11.5238 ,
+    "expectedReturn": 4.415 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0331 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1034 ,
+      "INTERNATIONAL_BONDS": 0.1529 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.029 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.1722 ,
+      "INFLATION_PROTECTED_BONDS": 0.0173 ,
+      "US_CORPORATE_BONDS": 0.0813 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1035 ,
+      "EMERGING_MARKETS_BONDS": 0.0564 ,
+      "EMERGING_MARKETS_STOCKS": 0.0434 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2075
+    }
+  } ,
+  {
+    "risk": 0.45 ,
+    "volatility": 10.5841 ,
+    "expectedReturn": 4.0642 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.165 ,
+      "INFLATION_PROTECTED_BONDS": 0.0427 ,
+      "EMERGING_MARKETS_BONDS": 0.0584 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1747 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0918 ,
+      "US_HIGH_QUALITY_BONDS": 0.1942 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0257 ,
+      "US_CORPORATE_BONDS": 0.0898 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0294 ,
+      "EMERGING_MARKETS_STOCKS": 0.0366 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0917
+    }
+  } ,
+  {
+    "risk": 0.95 ,
+    "volatility": 16.974 ,
+    "expectedReturn": 6.1972 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.0155 ,
+      "EMERGING_MARKETS_STOCKS": 0.117 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0474 ,
+      "US_CORPORATE_BONDS": 0.0084 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3924 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1695 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1695 ,
+      "INTERNATIONAL_BONDS": 0.018 ,
+      "EMERGING_MARKETS_BONDS": 0.0081 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0542
+    }
+  } ,
+  {
+    "risk": 0.37 ,
+    "volatility": 9.2186 ,
+    "expectedReturn": 3.5349 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.0705 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0775 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0775 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0248 ,
+      "US_CORPORATE_BONDS": 0.091 ,
+      "EMERGING_MARKETS_BONDS": 0.0546 ,
+      "US_HIGH_QUALITY_BONDS": 0.2013 ,
+      "EMERGING_MARKETS_STOCKS": 0.0292 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1393 ,
+      "SHORT_TERM_TREASURIES": 0.05 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0217 ,
+      "INTERNATIONAL_BONDS": 0.1626
+    }
+  } ,
+  {
+    "risk": 0.17 ,
+    "volatility": 5.016 ,
+    "expectedReturn": 1.8903 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.1583 ,
+      "INTERNATIONAL_BONDS": 0.1126 ,
+      "EMERGING_MARKETS_STOCKS": 0.0125 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0377 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0377 ,
+      "EMERGING_MARKETS_BONDS": 0.0322 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0121 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0106 ,
+      "US_CORPORATE_BONDS": 0.0677 ,
+      "INFLATION_PROTECTED_BONDS": 0.1032 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0595 ,
+      "SHORT_TERM_TREASURIES": 0.3559
+    }
+  } ,
+  {
+    "risk": 0.87 ,
+    "volatility": 15.9401 ,
+    "expectedReturn": 5.8815 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0201 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0502 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1569 ,
+      "INTERNATIONAL_BONDS": 0.0462 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0981 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0439 ,
+      "US_CORPORATE_BONDS": 0.022 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.364 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1568 ,
+      "US_HIGH_QUALITY_BONDS": 0.0418
+    }
+  } ,
+  {
+    "risk": 0.2 ,
+    "volatility": 5.66 ,
+    "expectedReturn": 2.1433 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.0708 ,
+      "SHORT_TERM_TREASURIES": 0.3017 ,
+      "EMERGING_MARKETS_BONDS": 0.0356 ,
+      "INTERNATIONAL_BONDS": 0.1213 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0141 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0123 ,
+      "EMERGING_MARKETS_STOCKS": 0.0148 ,
+      "US_CORPORATE_BONDS": 0.0722 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.044 ,
+      "US_TOTAL_MARKET_STOCKS": 0.044 ,
+      "INFLATION_PROTECTED_BONDS": 0.1019 ,
+      "US_HIGH_QUALITY_BONDS": 0.1673
+    }
+  } ,
+  {
+    "risk": 0.25 ,
+    "volatility": 6.7172 ,
+    "expectedReturn": 2.5577 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.0901 ,
+      "US_CORPORATE_BONDS": 0.0786 ,
+      "EMERGING_MARKETS_STOCKS": 0.0189 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0174 ,
+      "SHORT_TERM_TREASURIES": 0.219 ,
+      "US_HIGH_QUALITY_BONDS": 0.1799 ,
+      "INTERNATIONAL_BONDS": 0.1347 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0543 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0543 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0152 ,
+      "EMERGING_MARKETS_BONDS": 0.0413 ,
+      "INFLATION_PROTECTED_BONDS": 0.0963
+    }
+  } ,
+  {
+    "risk": 0.11 ,
+    "volatility": 3.685 ,
+    "expectedReturn": 1.3665 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.0377 ,
+      "US_HIGH_QUALITY_BONDS": 0.1348 ,
+      "INTERNATIONAL_BONDS": 0.0922 ,
+      "US_CORPORATE_BONDS": 0.0568 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0248 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0248 ,
+      "INFLATION_PROTECTED_BONDS": 0.0993 ,
+      "EMERGING_MARKETS_BONDS": 0.0248 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0069 ,
+      "SHORT_TERM_TREASURIES": 0.4821 ,
+      "EMERGING_MARKETS_STOCKS": 0.0079 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0079
+    }
+  } ,
+  {
+    "risk": 0.51 ,
+    "volatility": 11.3894 ,
+    "expectedReturn": 4.3656 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1019 ,
+      "EMERGING_MARKETS_BONDS": 0.0567 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0285 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2027 ,
+      "US_CORPORATE_BONDS": 0.0825 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0326 ,
+      "US_HIGH_QUALITY_BONDS": 0.1754 ,
+      "INFLATION_PROTECTED_BONDS": 0.0206 ,
+      "EMERGING_MARKETS_STOCKS": 0.0424 ,
+      "INTERNATIONAL_BONDS": 0.1547 ,
+      "US_TOTAL_MARKET_STOCKS": 0.102
+    }
+  } ,
+  {
+    "risk": 0.42 ,
+    "volatility": 10.1834 ,
+    "expectedReturn": 3.9108 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.0866 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0866 ,
+      "EMERGING_MARKETS_STOCKS": 0.0337 ,
+      "INFLATION_PROTECTED_BONDS": 0.0548 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0277 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.1696 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0242 ,
+      "US_CORPORATE_BONDS": 0.0933 ,
+      "EMERGING_MARKETS_BONDS": 0.0589 ,
+      "US_HIGH_QUALITY_BONDS": 0.2034 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1612
+    }
+  } ,
+  {
+    "risk": 0.02 ,
+    "volatility": 1.272 ,
+    "expectedReturn": 0.4311 ,
+    "allocations": {
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0013 ,
+      "INFLATION_PROTECTED_BONDS": 0.0561 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0015 ,
+      "EMERGING_MARKETS_BONDS": 0.0103 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0046 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0046 ,
+      "US_CORPORATE_BONDS": 0.0269 ,
+      "SHORT_TERM_TREASURIES": 0.779 ,
+      "INTERNATIONAL_BONDS": 0.0422 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0067 ,
+      "US_HIGH_QUALITY_BONDS": 0.0654 ,
+      "EMERGING_MARKETS_STOCKS": 0.0014
+    }
+  } ,
+  {
+    "risk": 0.73 ,
+    "volatility": 14.1626 ,
+    "expectedReturn": 5.32 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0464 ,
+      "EMERGING_MARKETS_BONDS": 0.0382 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.0921 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0687 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1342 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1342 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0376 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3124 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0429 ,
+      "INTERNATIONAL_BONDS": 0.0933
+    }
+  } ,
+  {
+    "risk": 0.98 ,
+    "volatility": 17.3644 ,
+    "expectedReturn": 6.3147 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0557 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0487 ,
+      "EMERGING_MARKETS_STOCKS": 0.1245 ,
+      "US_HIGH_QUALITY_BONDS": 0.0061 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.4029 ,
+      "INTERNATIONAL_BONDS": 0.0073 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1741 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1741 ,
+      "US_CORPORATE_BONDS": 0.0033 ,
+      "EMERGING_MARKETS_BONDS": 0.0033
+    }
+  } ,
+  {
+    "risk": 0.33 ,
+    "volatility": 8.3877 ,
+    "expectedReturn": 3.2106 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0224 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0196 ,
+      "US_TOTAL_MARKET_STOCKS": 0.07 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.07 ,
+      "US_HIGH_QUALITY_BONDS": 0.1952 ,
+      "SHORT_TERM_TREASURIES": 0.1028 ,
+      "EMERGING_MARKETS_STOCKS": 0.0256 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1224 ,
+      "US_CORPORATE_BONDS": 0.0873 ,
+      "EMERGING_MARKETS_BONDS": 0.0502 ,
+      "INFLATION_PROTECTED_BONDS": 0.0807 ,
+      "INTERNATIONAL_BONDS": 0.1538
+    }
+  } ,
+  {
+    "risk": 0.28 ,
+    "volatility": 7.3457 ,
+    "expectedReturn": 2.8036 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0446 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0169 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0603 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0603 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.102 ,
+      "US_CORPORATE_BONDS": 0.0821 ,
+      "INTERNATIONAL_BONDS": 0.1421 ,
+      "EMERGING_MARKETS_STOCKS": 0.0213 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0193 ,
+      "INFLATION_PROTECTED_BONDS": 0.0913 ,
+      "US_HIGH_QUALITY_BONDS": 0.1862 ,
+      "SHORT_TERM_TREASURIES": 0.1736
+    }
+  } ,
+  {
+    "risk": 0.99 ,
+    "volatility": 17.4948 ,
+    "expectedReturn": 6.3537 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.4063 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1756 ,
+      "US_CORPORATE_BONDS": 0.0017 ,
+      "INTERNATIONAL_BONDS": 0.0036 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1758 ,
+      "EMERGING_MARKETS_STOCKS": 0.127 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0492 ,
+      "EMERGING_MARKETS_BONDS": 0.0016 ,
+      "US_HIGH_QUALITY_BONDS": 0.003 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0562
+    }
+  } ,
+  {
+    "risk": 0.03 ,
+    "volatility": 1.619 ,
+    "expectedReturn": 0.5612 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.0784 ,
+      "INFLATION_PROTECTED_BONDS": 0.0663 ,
+      "SHORT_TERM_TREASURIES": 0.7296 ,
+      "EMERGING_MARKETS_STOCKS": 0.0021 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0019 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0069 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0069 ,
+      "US_CORPORATE_BONDS": 0.0323 ,
+      "EMERGING_MARKETS_BONDS": 0.0125 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0022 ,
+      "INTERNATIONAL_BONDS": 0.0509 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.01
+    }
+  } ,
+  {
+    "risk": 0.3 ,
+    "volatility": 7.7631 ,
+    "expectedReturn": 2.9667 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0842 ,
+      "INTERNATIONAL_BONDS": 0.1469 ,
+      "US_HIGH_QUALITY_BONDS": 0.19 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0642 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0642 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1101 ,
+      "EMERGING_MARKETS_BONDS": 0.0469 ,
+      "INFLATION_PROTECTED_BONDS": 0.0874 ,
+      "SHORT_TERM_TREASURIES": 0.1446 ,
+      "EMERGING_MARKETS_STOCKS": 0.023 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0205 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.018
+    }
+  } ,
+  {
+    "risk": 0.59 ,
+    "volatility": 12.444 ,
+    "expectedReturn": 4.746 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.032 ,
+      "INTERNATIONAL_BONDS": 0.1376 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0366 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1141 ,
+      "US_HIGH_QUALITY_BONDS": 0.1483 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2422 ,
+      "EMERGING_MARKETS_BONDS": 0.0527 ,
+      "EMERGING_MARKETS_STOCKS": 0.0507 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1143 ,
+      "US_CORPORATE_BONDS": 0.0715
+    }
+  } ,
+  {
+    "risk": 0.81 ,
+    "volatility": 15.1727 ,
+    "expectedReturn": 5.6423 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3421 ,
+      "US_CORPORATE_BONDS": 0.0323 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0471 ,
+      "US_HIGH_QUALITY_BONDS": 0.0627 ,
+      "EMERGING_MARKETS_BONDS": 0.0283 ,
+      "EMERGING_MARKETS_STOCKS": 0.085 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1473 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1473 ,
+      "INTERNATIONAL_BONDS": 0.0667 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0412
+    }
+  } ,
+  {
+    "risk": 0.12 ,
+    "volatility": 3.9127 ,
+    "expectedReturn": 1.4562 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.0269 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0269 ,
+      "US_HIGH_QUALITY_BONDS": 0.1394 ,
+      "US_CORPORATE_BONDS": 0.0588 ,
+      "INTERNATIONAL_BONDS": 0.096 ,
+      "EMERGING_MARKETS_BONDS": 0.0261 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0413 ,
+      "SHORT_TERM_TREASURIES": 0.4592 ,
+      "INFLATION_PROTECTED_BONDS": 0.1007 ,
+      "EMERGING_MARKETS_STOCKS": 0.0086 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0086 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0075
+    }
+  } ,
+  {
+    "risk": 0.74 ,
+    "volatility": 14.2879 ,
+    "expectedReturn": 5.3605 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.3161 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0435 ,
+      "EMERGING_MARKETS_STOCKS": 0.0706 ,
+      "US_HIGH_QUALITY_BONDS": 0.0883 ,
+      "EMERGING_MARKETS_BONDS": 0.0371 ,
+      "US_CORPORATE_BONDS": 0.0446 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.038 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1359 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1359 ,
+      "INTERNATIONAL_BONDS": 0.09
+    }
+  } ,
+  {
+    "risk": 0.97 ,
+    "volatility": 17.2341 ,
+    "expectedReturn": 6.2756 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.0109 ,
+      "EMERGING_MARKETS_BONDS": 0.0049 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1726 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0552 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_CORPORATE_BONDS": 0.005 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3994 ,
+      "US_HIGH_QUALITY_BONDS": 0.0092 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1725 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0483 ,
+      "EMERGING_MARKETS_STOCKS": 0.122
+    }
+  } ,
+  {
+    "risk": 0.34 ,
+    "volatility": 8.5955 ,
+    "expectedReturn": 3.2918 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.1968 ,
+      "SHORT_TERM_TREASURIES": 0.0894 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1266 ,
+      "EMERGING_MARKETS_STOCKS": 0.0265 ,
+      "US_CORPORATE_BONDS": 0.0882 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.023 ,
+      "INTERNATIONAL_BONDS": 0.156 ,
+      "INFLATION_PROTECTED_BONDS": 0.0783 ,
+      "EMERGING_MARKETS_BONDS": 0.0513 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0201 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0719 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0719
+    }
+  } ,
+  {
+    "risk": 0.43 ,
+    "volatility": 10.3168 ,
+    "expectedReturn": 3.9622 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.0507 ,
+      "EMERGING_MARKETS_BONDS": 0.0587 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0283 ,
+      "US_HIGH_QUALITY_BONDS": 0.2004 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1657 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0883 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0883 ,
+      "US_CORPORATE_BONDS": 0.0921 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0247 ,
+      "EMERGING_MARKETS_STOCKS": 0.0347 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.1681
+    }
+  } ,
+  {
+    "risk": 0.19 ,
+    "volatility": 5.4463 ,
+    "expectedReturn": 2.0594 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.3193 ,
+      "INTERNATIONAL_BONDS": 0.1185 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0134 ,
+      "INFLATION_PROTECTED_BONDS": 0.1026 ,
+      "US_CORPORATE_BONDS": 0.0707 ,
+      "EMERGING_MARKETS_BONDS": 0.0345 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0419 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0419 ,
+      "EMERGING_MARKETS_STOCKS": 0.014 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.067 ,
+      "US_HIGH_QUALITY_BONDS": 0.1645 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0117
+    }
+  } ,
+  {
+    "risk": 0.89 ,
+    "volatility": 16.1975 ,
+    "expectedReturn": 5.9608 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0186 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0448 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1601 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1601 ,
+      "EMERGING_MARKETS_STOCKS": 0.1027 ,
+      "INTERNATIONAL_BONDS": 0.0392 ,
+      "EMERGING_MARKETS_BONDS": 0.0172 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3711 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0512 ,
+      "US_HIGH_QUALITY_BONDS": 0.035
+    }
+  } ,
+  {
+    "risk": 0.35 ,
+    "volatility": 8.8033 ,
+    "expectedReturn": 3.3729 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.0758 ,
+      "INFLATION_PROTECTED_BONDS": 0.0758 ,
+      "US_HIGH_QUALITY_BONDS": 0.1984 ,
+      "EMERGING_MARKETS_STOCKS": 0.0274 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0236 ,
+      "US_CORPORATE_BONDS": 0.0892 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0207 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1308 ,
+      "INTERNATIONAL_BONDS": 0.1583 ,
+      "EMERGING_MARKETS_BONDS": 0.0524 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0738 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0738
+    }
+  } ,
+  {
+    "risk": 0.27 ,
+    "volatility": 7.1365 ,
+    "expectedReturn": 2.7218 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1397 ,
+      "SHORT_TERM_TREASURIES": 0.1885 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0583 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0583 ,
+      "US_HIGH_QUALITY_BONDS": 0.1842 ,
+      "EMERGING_MARKETS_STOCKS": 0.0205 ,
+      "INFLATION_PROTECTED_BONDS": 0.0931 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0186 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0163 ,
+      "EMERGING_MARKETS_BONDS": 0.0435 ,
+      "US_CORPORATE_BONDS": 0.081 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.098
+    }
+  } ,
+  {
+    "risk": 0.58 ,
+    "volatility": 12.3243 ,
+    "expectedReturn": 4.7045 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1128 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2372 ,
+      "EMERGING_MARKETS_BONDS": 0.0536 ,
+      "US_CORPORATE_BONDS": 0.0733 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0361 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1127 ,
+      "EMERGING_MARKETS_STOCKS": 0.0496 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.1525 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0316 ,
+      "INTERNATIONAL_BONDS": 0.1406
+    }
+  } ,
+  {
+    "risk": 0.04 ,
+    "volatility": 1.9255 ,
+    "expectedReturn": 0.6783 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.074 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0029 ,
+      "SHORT_TERM_TREASURIES": 0.6876 ,
+      "INTERNATIONAL_BONDS": 0.0581 ,
+      "US_HIGH_QUALITY_BONDS": 0.0889 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0026 ,
+      "EMERGING_MARKETS_BONDS": 0.0145 ,
+      "EMERGING_MARKETS_STOCKS": 0.0028 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0134 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0092 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0092 ,
+      "US_CORPORATE_BONDS": 0.0368
+    }
+  } ,
+  {
+    "risk": 0.4 ,
+    "volatility": 9.8412 ,
+    "expectedReturn": 3.7777 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0579 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1523 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0829 ,
+      "INTERNATIONAL_BONDS": 0.169 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.083 ,
+      "SHORT_TERM_TREASURIES": 0.0123 ,
+      "US_CORPORATE_BONDS": 0.0936 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0232 ,
+      "INFLATION_PROTECTED_BONDS": 0.062 ,
+      "EMERGING_MARKETS_STOCKS": 0.0319 ,
+      "US_HIGH_QUALITY_BONDS": 0.2053 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0266
+    }
+  } ,
+  {
+    "risk": 0.82 ,
+    "volatility": 15.3 ,
+    "expectedReturn": 5.6823 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0306 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3458 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0476 ,
+      "US_HIGH_QUALITY_BONDS": 0.0591 ,
+      "EMERGING_MARKETS_STOCKS": 0.0871 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.0633 ,
+      "EMERGING_MARKETS_BONDS": 0.027 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0417 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1489 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1489
+    }
+  } ,
+  {
+    "risk": 0.92 ,
+    "volatility": 16.585 ,
+    "expectedReturn": 6.0792 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.3818 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1648 ,
+      "EMERGING_MARKETS_STOCKS": 0.1098 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0461 ,
+      "EMERGING_MARKETS_BONDS": 0.0127 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1647 ,
+      "US_CORPORATE_BONDS": 0.0135 ,
+      "US_HIGH_QUALITY_BONDS": 0.0252 ,
+      "INTERNATIONAL_BONDS": 0.0287 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0527
+    }
+  } ,
+  {
+    "risk": 0.22 ,
+    "volatility": 6.0848 ,
+    "expectedReturn": 2.3099 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0379 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0154 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0135 ,
+      "INFLATION_PROTECTED_BONDS": 0.1002 ,
+      "US_CORPORATE_BONDS": 0.0749 ,
+      "SHORT_TERM_TREASURIES": 0.2676 ,
+      "EMERGING_MARKETS_STOCKS": 0.0164 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0481 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0481 ,
+      "US_HIGH_QUALITY_BONDS": 0.1727 ,
+      "INTERNATIONAL_BONDS": 0.1268 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0784
+    }
+  } ,
+  {
+    "risk": 0.48 ,
+    "volatility": 10.9863 ,
+    "expectedReturn": 4.2159 ,
+    "allocations": {
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0271 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.031 ,
+      "US_CORPORATE_BONDS": 0.0862 ,
+      "EMERGING_MARKETS_BONDS": 0.0577 ,
+      "INFLATION_PROTECTED_BONDS": 0.0313 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0395 ,
+      "US_HIGH_QUALITY_BONDS": 0.1848 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1886 ,
+      "INTERNATIONAL_BONDS": 0.16 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0969 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0969
+    }
+  } ,
+  {
+    "risk": 0.57 ,
+    "volatility": 12.1954 ,
+    "expectedReturn": 4.6587 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.143 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1112 ,
+      "EMERGING_MARKETS_BONDS": 0.0542 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0312 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0356 ,
+      "EMERGING_MARKETS_STOCKS": 0.0486 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1113 ,
+      "INFLATION_PROTECTED_BONDS": 0.0019 ,
+      "US_CORPORATE_BONDS": 0.0748 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2321 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.1561
+    }
+  } ,
+  {
+    "risk": 0.67 ,
+    "volatility": 13.4173 ,
+    "expectedReturn": 5.0756 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0595 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1254 ,
+      "EMERGING_MARKETS_BONDS": 0.0449 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0401 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0351 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1255 ,
+      "US_CORPORATE_BONDS": 0.057 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2844 ,
+      "US_HIGH_QUALITY_BONDS": 0.1155 ,
+      "INTERNATIONAL_BONDS": 0.1126
+    }
+  } ,
+  {
+    "risk": 0.13 ,
+    "volatility": 4.1376 ,
+    "expectedReturn": 1.5447 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0093 ,
+      "US_HIGH_QUALITY_BONDS": 0.1436 ,
+      "SHORT_TERM_TREASURIES": 0.4369 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0291 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0291 ,
+      "EMERGING_MARKETS_STOCKS": 0.0094 ,
+      "INTERNATIONAL_BONDS": 0.0995 ,
+      "US_CORPORATE_BONDS": 0.0608 ,
+      "INFLATION_PROTECTED_BONDS": 0.1018 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0082 ,
+      "EMERGING_MARKETS_BONDS": 0.0274 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0449
+    }
+  } ,
+  {
+    "risk": 0.65 ,
+    "volatility": 13.1715 ,
+    "expectedReturn": 4.9936 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0573 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0393 ,
+      "EMERGING_MARKETS_BONDS": 0.047 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0344 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2736 ,
+      "US_HIGH_QUALITY_BONDS": 0.1235 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1227 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1227 ,
+      "US_CORPORATE_BONDS": 0.0606 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.1189
+    }
+  } ,
+  {
+    "risk": 0.66 ,
+    "volatility": 13.2942 ,
+    "expectedReturn": 5.0346 ,
+    "allocations": {
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0347 ,
+      "EMERGING_MARKETS_STOCKS": 0.0584 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0397 ,
+      "EMERGING_MARKETS_BONDS": 0.0459 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1241 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1241 ,
+      "INTERNATIONAL_BONDS": 0.1158 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.279 ,
+      "US_HIGH_QUALITY_BONDS": 0.1195 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0588
+    }
+  } ,
+  {
+    "risk": 0.5 ,
+    "volatility": 11.255 ,
+    "expectedReturn": 4.3159 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0838 ,
+      "EMERGING_MARKETS_BONDS": 0.0571 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1002 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1002 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INTERNATIONAL_BONDS": 0.1565 ,
+      "EMERGING_MARKETS_STOCKS": 0.0414 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0321 ,
+      "US_HIGH_QUALITY_BONDS": 0.1785 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.198 ,
+      "INFLATION_PROTECTED_BONDS": 0.0241 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0281
+    }
+  } ,
+  {
+    "risk": 0.75 ,
+    "volatility": 14.4135 ,
+    "expectedReturn": 5.4009 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.0846 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.044 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0385 ,
+      "INTERNATIONAL_BONDS": 0.0867 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1375 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1375 ,
+      "US_CORPORATE_BONDS": 0.0428 ,
+      "EMERGING_MARKETS_BONDS": 0.0359 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3199 ,
+      "EMERGING_MARKETS_STOCKS": 0.0726
+    }
+  } ,
+  {
+    "risk": 0.05 ,
+    "volatility": 2.2082 ,
+    "expectedReturn": 0.7876 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0035 ,
+      "EMERGING_MARKETS_BONDS": 0.0162 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0037 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0168 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0032 ,
+      "US_CORPORATE_BONDS": 0.0406 ,
+      "INFLATION_PROTECTED_BONDS": 0.0801 ,
+      "INTERNATIONAL_BONDS": 0.0644 ,
+      "SHORT_TERM_TREASURIES": 0.6508 ,
+      "US_HIGH_QUALITY_BONDS": 0.0979 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0114 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0114
+    }
+  } ,
+  {
+    "risk": 0.84 ,
+    "volatility": 15.5554 ,
+    "expectedReturn": 5.7622 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0487 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3531 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1521 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1521 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0426 ,
+      "EMERGING_MARKETS_BONDS": 0.0243 ,
+      "US_HIGH_QUALITY_BONDS": 0.0521 ,
+      "INTERNATIONAL_BONDS": 0.0565 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0271 ,
+      "EMERGING_MARKETS_STOCKS": 0.0914
+    }
+  } ,
+  {
+    "risk": 0.21 ,
+    "volatility": 5.8727 ,
+    "expectedReturn": 2.2268 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.2843 ,
+      "US_HIGH_QUALITY_BONDS": 0.1701 ,
+      "EMERGING_MARKETS_STOCKS": 0.0156 ,
+      "EMERGING_MARKETS_BONDS": 0.0368 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0129 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0461 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0461 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0746 ,
+      "US_CORPORATE_BONDS": 0.0736 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0147 ,
+      "INFLATION_PROTECTED_BONDS": 0.1011 ,
+      "INTERNATIONAL_BONDS": 0.1241
+    }
+  } ,
+  {
+    "risk": 0.91 ,
+    "volatility": 16.4557 ,
+    "expectedReturn": 6.0398 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.0322 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1632 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1632 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0457 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3783 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.1074 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0142 ,
+      "US_CORPORATE_BONDS": 0.0152 ,
+      "US_HIGH_QUALITY_BONDS": 0.0284 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0522
+    }
+  } ,
+  {
+    "risk": 0.49 ,
+    "volatility": 11.1206 ,
+    "expectedReturn": 4.266 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.1817 ,
+      "US_CORPORATE_BONDS": 0.085 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1932 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0987 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0574 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0315 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0986 ,
+      "EMERGING_MARKETS_STOCKS": 0.0404 ,
+      "INFLATION_PROTECTED_BONDS": 0.0276 ,
+      "INTERNATIONAL_BONDS": 0.1583 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0276
+    }
+  } ,
+  {
+    "risk": 0.56 ,
+    "volatility": 12.0612 ,
+    "expectedReturn": 4.6105 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0761 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1098 ,
+      "EMERGING_MARKETS_STOCKS": 0.0475 ,
+      "INTERNATIONAL_BONDS": 0.1451 ,
+      "INFLATION_PROTECTED_BONDS": 0.0048 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1097 ,
+      "EMERGING_MARKETS_BONDS": 0.0547 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2271 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0351 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0307 ,
+      "US_HIGH_QUALITY_BONDS": 0.1594 ,
+      "SHORT_TERM_TREASURIES": 0.0
+    }
+  } ,
+  {
+    "risk": 0.14 ,
+    "volatility": 4.36 ,
+    "expectedReturn": 1.6323 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0102 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0088 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0485 ,
+      "EMERGING_MARKETS_BONDS": 0.0286 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.01 ,
+      "INTERNATIONAL_BONDS": 0.103 ,
+      "US_HIGH_QUALITY_BONDS": 0.1476 ,
+      "US_CORPORATE_BONDS": 0.0626 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0313 ,
+      "SHORT_TERM_TREASURIES": 0.4155 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0313 ,
+      "INFLATION_PROTECTED_BONDS": 0.1026
+    }
+  } ,
+  {
+    "risk": 0.68 ,
+    "volatility": 13.5406 ,
+    "expectedReturn": 5.1165 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0405 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1267 ,
+      "INTERNATIONAL_BONDS": 0.1094 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0607 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1268 ,
+      "US_CORPORATE_BONDS": 0.0552 ,
+      "US_HIGH_QUALITY_BONDS": 0.1115 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2899 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0355 ,
+      "EMERGING_MARKETS_BONDS": 0.0438
+    }
+  } ,
+  {
+    "risk": 0.64 ,
+    "volatility": 13.0493 ,
+    "expectedReturn": 4.9525 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1214 ,
+      "US_CORPORATE_BONDS": 0.0624 ,
+      "US_HIGH_QUALITY_BONDS": 0.1275 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2683 ,
+      "INTERNATIONAL_BONDS": 0.1221 ,
+      "EMERGING_MARKETS_STOCKS": 0.0562 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1213 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.034 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0388 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.048
+    }
+  } ,
+  {
+    "risk": 0.6 ,
+    "volatility": 12.5642 ,
+    "expectedReturn": 4.7874 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1345 ,
+      "US_HIGH_QUALITY_BONDS": 0.1441 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.037 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2474 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0324 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0696 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1157 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1157 ,
+      "EMERGING_MARKETS_STOCKS": 0.0518 ,
+      "EMERGING_MARKETS_BONDS": 0.0518
+    }
+  } ,
+  {
+    "risk": 0.06 ,
+    "volatility": 2.4751 ,
+    "expectedReturn": 0.8915 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0178 ,
+      "INTERNATIONAL_BONDS": 0.07 ,
+      "EMERGING_MARKETS_STOCKS": 0.0042 ,
+      "SHORT_TERM_TREASURIES": 0.6175 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0137 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0137 ,
+      "US_CORPORATE_BONDS": 0.0439 ,
+      "INFLATION_PROTECTED_BONDS": 0.0851 ,
+      "US_HIGH_QUALITY_BONDS": 0.1057 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0038 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0202 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0044
+    }
+  } ,
+  {
+    "risk": 0.76 ,
+    "volatility": 14.5394 ,
+    "expectedReturn": 5.4413 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0411 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3236 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.039 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0445 ,
+      "INTERNATIONAL_BONDS": 0.0834 ,
+      "EMERGING_MARKETS_BONDS": 0.0347 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1391 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1391 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_HIGH_QUALITY_BONDS": 0.0809 ,
+      "EMERGING_MARKETS_STOCKS": 0.0746
+    }
+  } ,
+  {
+    "risk": 0.29 ,
+    "volatility": 7.5545 ,
+    "expectedReturn": 2.8852 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.106 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0174 ,
+      "SHORT_TERM_TREASURIES": 0.1591 ,
+      "INFLATION_PROTECTED_BONDS": 0.0894 ,
+      "INTERNATIONAL_BONDS": 0.1445 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0199 ,
+      "EMERGING_MARKETS_STOCKS": 0.0222 ,
+      "EMERGING_MARKETS_BONDS": 0.0457 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0622 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0622 ,
+      "US_HIGH_QUALITY_BONDS": 0.1882 ,
+      "US_CORPORATE_BONDS": 0.0832
+    }
+  } ,
+  {
+    "risk": 0.83 ,
+    "volatility": 15.4276 ,
+    "expectedReturn": 5.7223 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.0599 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0482 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3495 ,
+      "EMERGING_MARKETS_STOCKS": 0.0893 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1505 ,
+      "US_HIGH_QUALITY_BONDS": 0.0556 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0421 ,
+      "US_CORPORATE_BONDS": 0.0289 ,
+      "EMERGING_MARKETS_BONDS": 0.0256 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1504
+    }
+  } ,
+  {
+    "risk": 0.41 ,
+    "volatility": 10.0402 ,
+    "expectedReturn": 3.8553 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.2065 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0237 ,
+      "EMERGING_MARKETS_STOCKS": 0.0328 ,
+      "US_CORPORATE_BONDS": 0.0944 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0848 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0848 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1568 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0271 ,
+      "INFLATION_PROTECTED_BONDS": 0.059 ,
+      "INTERNATIONAL_BONDS": 0.1711 ,
+      "EMERGING_MARKETS_BONDS": 0.059
+    }
+  } ,
+  {
+    "risk": 0.24 ,
+    "volatility": 6.5069 ,
+    "expectedReturn": 2.4754 ,
+    "allocations": {
+      "US_CORPORATE_BONDS": 0.0774 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0522 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0522 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0146 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0167 ,
+      "INTERNATIONAL_BONDS": 0.1321 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0862 ,
+      "SHORT_TERM_TREASURIES": 0.235 ,
+      "US_HIGH_QUALITY_BONDS": 0.1776 ,
+      "EMERGING_MARKETS_STOCKS": 0.018 ,
+      "INFLATION_PROTECTED_BONDS": 0.0978 ,
+      "EMERGING_MARKETS_BONDS": 0.0402
+    }
+  } ,
+  {
+    "risk": 0.94 ,
+    "volatility": 16.8442 ,
+    "expectedReturn": 6.1579 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0096 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.047 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3889 ,
+      "US_HIGH_QUALITY_BONDS": 0.0187 ,
+      "INTERNATIONAL_BONDS": 0.0216 ,
+      "US_CORPORATE_BONDS": 0.0101 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0537 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1679 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1679 ,
+      "EMERGING_MARKETS_STOCKS": 0.1146
+    }
+  } ,
+  {
+    "risk": 0.46 ,
+    "volatility": 10.718 ,
+    "expectedReturn": 4.115 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1793 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0935 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0935 ,
+      "INTERNATIONAL_BONDS": 0.1634 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0262 ,
+      "US_CORPORATE_BONDS": 0.0886 ,
+      "EMERGING_MARKETS_STOCKS": 0.0375 ,
+      "INFLATION_PROTECTED_BONDS": 0.0388 ,
+      "US_HIGH_QUALITY_BONDS": 0.1911 ,
+      "EMERGING_MARKETS_BONDS": 0.0582 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0299
+    }
+  } ,
+  {
+    "risk": 0.69 ,
+    "volatility": 13.6644 ,
+    "expectedReturn": 5.1573 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.2954 ,
+      "EMERGING_MARKETS_STOCKS": 0.0618 ,
+      "EMERGING_MARKETS_BONDS": 0.0428 ,
+      "US_CORPORATE_BONDS": 0.0534 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0358 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.041 ,
+      "US_TOTAL_MARKET_STOCKS": 0.128 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.128 ,
+      "INTERNATIONAL_BONDS": 0.1062 ,
+      "US_HIGH_QUALITY_BONDS": 0.1076
+    }
+  } ,
+  {
+    "risk": 0.55 ,
+    "volatility": 11.927 ,
+    "expectedReturn": 4.562 ,
+    "allocations": {
+      "DEVELOPED_MARKETS_STOCKS": 0.2222 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0774 ,
+      "US_HIGH_QUALITY_BONDS": 0.1626 ,
+      "INFLATION_PROTECTED_BONDS": 0.0077 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0346 ,
+      "INTERNATIONAL_BONDS": 0.1471 ,
+      "EMERGING_MARKETS_STOCKS": 0.0465 ,
+      "EMERGING_MARKETS_BONDS": 0.0552 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1082 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1082 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0303
+    }
+  } ,
+  {
+    "risk": 0.15 ,
+    "volatility": 4.5803 ,
+    "expectedReturn": 1.719 ,
+    "allocations": {
+      "INFLATION_PROTECTED_BONDS": 0.103 ,
+      "SHORT_TERM_TREASURIES": 0.3951 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0107 ,
+      "US_HIGH_QUALITY_BONDS": 0.1514 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0522 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0334 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0334 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0094 ,
+      "EMERGING_MARKETS_STOCKS": 0.0109 ,
+      "EMERGING_MARKETS_BONDS": 0.0298 ,
+      "US_CORPORATE_BONDS": 0.0644 ,
+      "INTERNATIONAL_BONDS": 0.1063
+    }
+  } ,
+  {
+    "risk": 0.77 ,
+    "volatility": 14.6656 ,
+    "expectedReturn": 5.4816 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1408 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1408 ,
+      "US_CORPORATE_BONDS": 0.0393 ,
+      "EMERGING_MARKETS_STOCKS": 0.0766 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.045 ,
+      "INTERNATIONAL_BONDS": 0.0801 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0394 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3274 ,
+      "US_HIGH_QUALITY_BONDS": 0.0772 ,
+      "EMERGING_MARKETS_BONDS": 0.0334
+    }
+  } ,
+  {
+    "risk": 0.63 ,
+    "volatility": 12.9274 ,
+    "expectedReturn": 4.9113 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.12 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.12 ,
+      "EMERGING_MARKETS_STOCKS": 0.055 ,
+      "US_CORPORATE_BONDS": 0.0642 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0336 ,
+      "INTERNATIONAL_BONDS": 0.1252 ,
+      "EMERGING_MARKETS_BONDS": 0.049 ,
+      "US_HIGH_QUALITY_BONDS": 0.1316 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.263 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0384
+    }
+  } ,
+  {
+    "risk": 0.7 ,
+    "volatility": 13.7885 ,
+    "expectedReturn": 5.1981 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1292 ,
+      "EMERGING_MARKETS_STOCKS": 0.063 ,
+      "INTERNATIONAL_BONDS": 0.103 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.301 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1291 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0362 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0517 ,
+      "US_HIGH_QUALITY_BONDS": 0.1037 ,
+      "EMERGING_MARKETS_BONDS": 0.0417 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0414
+    }
+  } ,
+  {
+    "risk": 0.07 ,
+    "volatility": 2.7307 ,
+    "expectedReturn": 0.9914 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0051 ,
+      "EMERGING_MARKETS_STOCKS": 0.005 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0159 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0159 ,
+      "INTERNATIONAL_BONDS": 0.0751 ,
+      "US_CORPORATE_BONDS": 0.0469 ,
+      "US_HIGH_QUALITY_BONDS": 0.1126 ,
+      "EMERGING_MARKETS_BONDS": 0.0194 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0045 ,
+      "SHORT_TERM_TREASURIES": 0.5867 ,
+      "INFLATION_PROTECTED_BONDS": 0.0892 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0237
+    }
+  } ,
+  {
+    "risk": 0.32 ,
+    "volatility": 8.1796 ,
+    "expectedReturn": 3.1294 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1515 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0681 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0681 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0218 ,
+      "EMERGING_MARKETS_BONDS": 0.0491 ,
+      "SHORT_TERM_TREASURIES": 0.1163 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1183 ,
+      "US_CORPORATE_BONDS": 0.0863 ,
+      "US_HIGH_QUALITY_BONDS": 0.1936 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0191 ,
+      "EMERGING_MARKETS_STOCKS": 0.0248 ,
+      "INFLATION_PROTECTED_BONDS": 0.083
+    }
+  } ,
+  {
+    "risk": 0.38 ,
+    "volatility": 9.4262 ,
+    "expectedReturn": 3.6159 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0793 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0793 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1436 ,
+      "INTERNATIONAL_BONDS": 0.1648 ,
+      "EMERGING_MARKETS_STOCKS": 0.0301 ,
+      "EMERGING_MARKETS_BONDS": 0.0557 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0254 ,
+      "US_HIGH_QUALITY_BONDS": 0.2027 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0222 ,
+      "INFLATION_PROTECTED_BONDS": 0.0677 ,
+      "SHORT_TERM_TREASURIES": 0.0373 ,
+      "US_CORPORATE_BONDS": 0.0919
+    }
+  } ,
+  {
+    "risk": 0.86 ,
+    "volatility": 15.8117 ,
+    "expectedReturn": 5.8418 ,
+    "allocations": {
+      "EMERGING_MARKETS_STOCKS": 0.0959 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0435 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_BONDS": 0.0215 ,
+      "US_HIGH_QUALITY_BONDS": 0.0452 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1552 ,
+      "US_CORPORATE_BONDS": 0.0237 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3604 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1553 ,
+      "INTERNATIONAL_BONDS": 0.0496 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0497
+    }
+  } ,
+  {
+    "risk": 0.23 ,
+    "volatility": 6.2961 ,
+    "expectedReturn": 2.3928 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0161 ,
+      "US_HIGH_QUALITY_BONDS": 0.1752 ,
+      "US_CORPORATE_BONDS": 0.0762 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0823 ,
+      "INFLATION_PROTECTED_BONDS": 0.099 ,
+      "EMERGING_MARKETS_STOCKS": 0.0172 ,
+      "INTERNATIONAL_BONDS": 0.1295 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0141 ,
+      "EMERGING_MARKETS_BONDS": 0.039 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0502 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0502 ,
+      "SHORT_TERM_TREASURIES": 0.251
+    }
+  } ,
+  {
+    "risk": 0.47 ,
+    "volatility": 10.8521 ,
+    "expectedReturn": 4.1655 ,
+    "allocations": {
+      "EMERGING_MARKETS_BONDS": 0.0579 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0267 ,
+      "INFLATION_PROTECTED_BONDS": 0.035 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1839 ,
+      "US_HIGH_QUALITY_BONDS": 0.188 ,
+      "EMERGING_MARKETS_STOCKS": 0.0385 ,
+      "US_CORPORATE_BONDS": 0.0874 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0305 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0952 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0952 ,
+      "INTERNATIONAL_BONDS": 0.1617
+    }
+  } ,
+  {
+    "risk": 0.93 ,
+    "volatility": 16.7145 ,
+    "expectedReturn": 6.1186 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.0219 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0532 ,
+      "EMERGING_MARKETS_STOCKS": 0.1122 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0466 ,
+      "US_CORPORATE_BONDS": 0.0118 ,
+      "INTERNATIONAL_BONDS": 0.0251 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1663 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1663 ,
+      "EMERGING_MARKETS_BONDS": 0.0112 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3854 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0
+    }
+  } ,
+  {
+    "risk": 0.54 ,
+    "volatility": 11.7926 ,
+    "expectedReturn": 4.5133 ,
+    "allocations": {
+      "US_MID_CAP_VALUE_STOCKS": 0.0341 ,
+      "US_CORPORATE_BONDS": 0.0787 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2173 ,
+      "INFLATION_PROTECTED_BONDS": 0.0108 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0455 ,
+      "INTERNATIONAL_BONDS": 0.1491 ,
+      "US_HIGH_QUALITY_BONDS": 0.1658 ,
+      "EMERGING_MARKETS_BONDS": 0.0556 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0299 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1066 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1066
+    }
+  } ,
+  {
+    "risk": 0.16 ,
+    "volatility": 4.7989 ,
+    "expectedReturn": 1.805 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.1095 ,
+      "EMERGING_MARKETS_STOCKS": 0.0117 ,
+      "US_CORPORATE_BONDS": 0.0661 ,
+      "INFLATION_PROTECTED_BONDS": 0.1033 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0356 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0356 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0114 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.01 ,
+      "EMERGING_MARKETS_BONDS": 0.031 ,
+      "SHORT_TERM_TREASURIES": 0.3751 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0558 ,
+      "US_HIGH_QUALITY_BONDS": 0.1549
+    }
+  } ,
+  {
+    "risk": 0.78 ,
+    "volatility": 14.792 ,
+    "expectedReturn": 5.5219 ,
+    "allocations": {
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1424 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1422 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0456 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3311 ,
+      "EMERGING_MARKETS_BONDS": 0.0322 ,
+      "US_CORPORATE_BONDS": 0.0376 ,
+      "US_HIGH_QUALITY_BONDS": 0.0735 ,
+      "INTERNATIONAL_BONDS": 0.0768 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0399 ,
+      "EMERGING_MARKETS_STOCKS": 0.0787
+    }
+  } ,
+  {
+    "risk": 0.62 ,
+    "volatility": 12.8059 ,
+    "expectedReturn": 4.8701 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.1188 ,
+      "INTERNATIONAL_BONDS": 0.1283 ,
+      "EMERGING_MARKETS_BONDS": 0.0499 ,
+      "EMERGING_MARKETS_STOCKS": 0.0539 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "US_CORPORATE_BONDS": 0.066 ,
+      "US_HIGH_QUALITY_BONDS": 0.1357 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0332 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0379 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.2577 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1186
+    }
+  } ,
+  {
+    "risk": 0.08 ,
+    "volatility": 2.9779 ,
+    "expectedReturn": 1.0883 ,
+    "allocations": {
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0051 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0058 ,
+      "EMERGING_MARKETS_BONDS": 0.0208 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0181 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0181 ,
+      "SHORT_TERM_TREASURIES": 0.5583 ,
+      "INTERNATIONAL_BONDS": 0.0798 ,
+      "EMERGING_MARKETS_STOCKS": 0.0057 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.0272 ,
+      "US_HIGH_QUALITY_BONDS": 0.1189 ,
+      "INFLATION_PROTECTED_BONDS": 0.0925 ,
+      "US_CORPORATE_BONDS": 0.0497
+    }
+  } ,
+  {
+    "risk": 0.8 ,
+    "volatility": 15.0455 ,
+    "expectedReturn": 5.6022 ,
+    "allocations": {
+      "INTERNATIONAL_BONDS": 0.0701 ,
+      "EMERGING_MARKETS_STOCKS": 0.0828 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1457 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3385 ,
+      "EMERGING_MARKETS_BONDS": 0.0296 ,
+      "US_HIGH_QUALITY_BONDS": 0.0662 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0408 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1456 ,
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "US_CORPORATE_BONDS": 0.0341 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0466
+    }
+  } ,
+  {
+    "risk": 0.31 ,
+    "volatility": 7.9714 ,
+    "expectedReturn": 3.0481 ,
+    "allocations": {
+      "US_TOTAL_MARKET_STOCKS": 0.0661 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0661 ,
+      "INTERNATIONAL_BONDS": 0.1492 ,
+      "INFLATION_PROTECTED_BONDS": 0.0853 ,
+      "US_CORPORATE_BONDS": 0.0853 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0185 ,
+      "US_HIGH_QUALITY_BONDS": 0.1918 ,
+      "EMERGING_MARKETS_STOCKS": 0.0239 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.1142 ,
+      "EMERGING_MARKETS_BONDS": 0.048 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0212 ,
+      "SHORT_TERM_TREASURIES": 0.1304
+    }
+  } ,
+  {
+    "risk": 0.39 ,
+    "volatility": 9.6337 ,
+    "expectedReturn": 3.6968 ,
+    "allocations": {
+      "US_HIGH_QUALITY_BONDS": 0.204 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.026 ,
+      "SHORT_TERM_TREASURIES": 0.0246 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.0227 ,
+      "INTERNATIONAL_BONDS": 0.1669 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.0812 ,
+      "US_TOTAL_MARKET_STOCKS": 0.0812 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.148 ,
+      "INFLATION_PROTECTED_BONDS": 0.0649 ,
+      "US_CORPORATE_BONDS": 0.0927 ,
+      "EMERGING_MARKETS_STOCKS": 0.031 ,
+      "EMERGING_MARKETS_BONDS": 0.0568
+    }
+  } ,
+  {
+    "risk": 0.85 ,
+    "volatility": 15.6835 ,
+    "expectedReturn": 5.802 ,
+    "allocations": {
+      "SHORT_TERM_TREASURIES": 0.0 ,
+      "INFLATION_PROTECTED_BONDS": 0.0 ,
+      "EMERGING_MARKETS_STOCKS": 0.0937 ,
+      "INTERNATIONAL_BONDS": 0.0531 ,
+      "US_MID_CAP_VALUE_STOCKS": 0.0492 ,
+      "US_SMALL_CAP_VALUE_STOCKS": 0.043 ,
+      "DEVELOPED_MARKETS_STOCKS": 0.3567 ,
+      "US_LARGE_CAP_VALUE_STOCKS": 0.1537 ,
+      "US_TOTAL_MARKET_STOCKS": 0.1537 ,
+      "EMERGING_MARKETS_BONDS": 0.0229 ,
+      "US_HIGH_QUALITY_BONDS": 0.0486 ,
+      "US_CORPORATE_BONDS": 0.0254
+    }
+  }
+]

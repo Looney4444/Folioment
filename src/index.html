@@ -1,0 +1,99 @@
+<!doctype html>
+<html ng-app="folioment">
+  <head>
+    <meta charset="utf-8">
+    <title>Folioment</title>
+    <meta name="description" content="">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <!-- build:css({.tmp/serve,src}) styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- run `gulp inject` to automatically populate bower styles dependencies -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:css({.tmp/serve,src}) styles/app.css -->
+    <!-- inject:css -->
+    <!-- css files will be automatically insert here -->
+    <!-- endinject -->
+    <!-- endbuild -->
+  </head>
+  <body ng-controller="SettingsController as settings">
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Static navbar -->
+    <div class="container">
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><b>Folioment</b></a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class=""><a href="#">Summary</a></li>
+              <li class=""><a href="#myPortfolio">My Portfolio</a></li>
+              <li class=""><a href="#marketData">Market Data</a></li>
+              <li class=""><a href="#settings">Settings</a></li>
+              <li class=""><a href="#about">About</a></li>
+            </ul>
+
+            <form class="col-lg-3 navbar-form">
+              <div class="input-group">
+                <span class="input-group-addon"><b>Risk:</b></span>
+                <div class="input-group-btn">
+                  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{settings.selected.label}} <span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu">
+                    <li ng-model="settings.selected" ng-repeat="percent in settings.percents">
+                      <a href ng-click="settings.selected = percent">{{percent.label}}</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </form>
+
+            <form class="col-lg-3 navbar-form">
+              <div class="input-group">
+                <span class="input-group-addon" id="basic-addon1"><b>Amount Invested:</b></span>
+                <input type="text" class="form-control" ng-model="settings.amount" placeholder="0.00">
+              </div>
+            </form>
+
+          </div><!--/.nav-collapse -->
+
+        </div><!--/.container-fluid -->
+      </nav>
+    </div>
+
+
+    <div ui-view></div>
+
+    <!-- build:js(src) scripts/vendor.js -->
+    <!-- bower:js -->
+    <!-- run `gulp inject` to automatically populate bower script dependencies -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp/serve,.tmp/partials,src}) scripts/app.js -->
+    <!-- inject:js -->
+    <!-- js files will be automatically insert here -->
+    <!-- endinject -->
+
+    <!-- inject:partials -->
+    <!-- angular templates will be automatically converted in js and inserted here -->
+    <!-- endinject -->
+    <!-- endbuild -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  </body>
+  <img style="position:absolute; float:right; right:0px; bottom:0px; z-index:2;"
+       src="assets/images/mark.png" alt="mark" height="42" width="42">
+</html>
