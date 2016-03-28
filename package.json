@@ -47,7 +47,7 @@
   },
   "scripts": {
     "start": "node node_modules/gulp/bin/gulp",
-    "test": "gulp test"
+    "test": "gulp default"
   },
   "devDependencies": {
     "estraverse": "~4.1.0",
