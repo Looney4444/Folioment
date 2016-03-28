@@ -1,6 +1,6 @@
 {
   "name": "folioment",
-  "version": "0.1",
+  "version": "0.0.1",
   "dependencies": {
     "run-sequence": "^1.1.5",
     "wiredep": "^4.0.0",
