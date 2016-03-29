@@ -1,23 +1,12 @@
 'use strict';
 
 angular.module('folioment')
-  .factory('bettermentRiskFactory', function (risk) {
-    var factory = {};
+  .factory('bettermentRiskFactory', function($http){
+    var bettermentRiskFactory = {};
 
-    factory.risk = risk;
+    bettermentRiskFactory.getData = function() {
+      return $http.get("../app/resources/data.json");
+    };
 
-    factory.getAllocations = function() {
-      return factory.risk;
-    }
-
-    factory.getExpectedReturn = function(){
-      return factory.risk;
-    }
-
-    factory.getVolatility = function(){
-      return factory.risk;
-    }
-
-    return factory;
-
-  });
+    return bettermentRiskFactory;
+});

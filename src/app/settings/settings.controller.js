@@ -3,9 +3,6 @@
 angular.module('folioment')
   .controller('SettingsController', function () {
     var vm = this;
-    vm.text = "test";
-
-    vm.toString();
 
     vm.amount = 0.0;
 
@@ -42,4 +39,6 @@ angular.module('folioment')
     }];
 
     vm.selected = vm.percents[0];
+
+
   });
