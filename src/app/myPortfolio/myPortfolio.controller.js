@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('folioment')
-  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskFactory,NgTableParams) {
+  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskFactory) {
     var vm = this;
     vm.allocData = {};
 
