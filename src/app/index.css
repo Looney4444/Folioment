@@ -12,8 +12,6 @@
 .thumbnail img.pull-right {
   width: 50px;
 }
-
-.jumbotron{
-  background-color: #98c2ff;
+.table thead th {
+  text-align: left;/*change that parameter to left/right*/
 }
-

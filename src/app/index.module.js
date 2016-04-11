@@ -7,6 +7,7 @@
         'ngResource',
         'ui.router',
         'ui.router.compat',
-        'ui.bootstrap']);
+        'ui.bootstrap',
+        'ngTable']);
 
 })();

@@ -1,16 +1,24 @@
-<div class="container">
 
   <div class="col-lg-2">
   </div>
+  <div class="col-lg-8">
+    <!-- Main component for a primary marketing message or call to action -->
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h3 class="panel-title">Allocation</h3>
+      </div>
+      <div class="panel-body">
+        <table ng-table="vm.tableParams" class="table">
+          <tr ng-repeat="(key, data) in myPortfolio.getAlloc(settings.selected.value) ">
+            <td title="'Allocation Name'">{{key}}</td>
+            <td title="'Allocation Percent'">{{data * 100| number :2 }}%</td>
+          </tr>
+        </table>
+      </div>
+    </div>
 
-  <!-- Main component for a primary marketing message or call to action -->
-  <div class="jumbotron col-lg-8">
-    <h3>Allocation</h3>
-    <pre>{{myPortfolio.getAlloc(settings.selected.value) | json}}</pre>
 
   </div>
-
   <div class="col-lg-2">
   </div>
 
-</div>
