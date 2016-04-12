@@ -4,11 +4,13 @@ angular.module('folioment')
   .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskFactory) {
     var vm = this;
     vm.allocData = {};
+    vm.alloc = {};
 
+    vm.labels = [];
+    vm.data = [];
 
     bettermentRiskFactory.getData().success(function(data){
       vm.allocData = data;
-      $log.info(data);
     });
 
     vm.getAlloc = function(value) {
@@ -20,5 +22,15 @@ angular.module('folioment')
       }
       return vm.alloc;
     };
+
+    $scope.$watch('myPortfolio.alloc', function() {
+      vm.labels = [];
+      vm.data = [];
+      for(var j in vm.alloc) {
+        vm.labels.push(j);
+        vm.data.push(vm.alloc[j]);
+      }
+    });
+
 
   });

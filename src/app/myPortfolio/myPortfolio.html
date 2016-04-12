@@ -2,18 +2,35 @@
   <div class="col-lg-2">
   </div>
   <div class="col-lg-8">
-    <!-- Main component for a primary marketing message or call to action -->
-    <div class="panel panel-info">
-      <div class="panel-heading">
-        <h3 class="panel-title">Allocation</h3>
+
+    <div class="col-lg-12">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Allocation Donut Chart</h3>
+        </div>
+        <div class="panel-body">
+          <canvas id="doughnut" class="chart chart-doughnut"
+                  chart-data="myPortfolio.data"
+                  chart-labels="myPortfolio.labels"
+                  chart-options="{segmentStrokeWidth : 0}">
+          </canvas>
+        </div>
       </div>
-      <div class="panel-body">
-        <table ng-table="vm.tableParams" class="table">
-          <tr ng-repeat="(key, data) in myPortfolio.getAlloc(settings.selected.value) ">
-            <td title="'Allocation Name'">{{key}}</td>
-            <td title="'Allocation Percent'">{{data * 100| number :2 }}%</td>
-          </tr>
-        </table>
+    </div>
+
+    <div class="col-lg-12">
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          <h3 class="panel-title">Allocation</h3>
+        </div>
+        <div class="panel-body">
+          <table ng-table="vm.tableParams" class="table">
+            <tr ng-repeat="(key, data) in myPortfolio.getAlloc(settings.selected.value)">
+              <td title="'Allocation Name'">{{key}}</td>
+              <td title="'Allocation Percent'">{{data * 100| number :2 }}%</td>
+            </tr>
+          </table>
+        </div>
       </div>
     </div>
 

@@ -8,6 +8,7 @@
         'ui.router',
         'ui.router.compat',
         'ui.bootstrap',
-        'ngTable']);
+        'ngTable',
+        'chart.js']);
 
 })();
