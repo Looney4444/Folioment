@@ -1,6 +1,12 @@
 {
   "name": "Folioment",
-  "description": "",
+  "description": "This tool is made to assist you with your betterment portfolio. It is not associated with Betterment Holdings Inc.",
+  "author": "Albert Looney <alooney@capital.edu> (http://albertlooney.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Looney4444/Folioment.git"
+  },
+  "license": "Apache License Version 2.0",
   "scripts": {
   },
   "env": {
