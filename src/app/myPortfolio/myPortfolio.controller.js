@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('folioment')
-  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskFactory) {
+  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskService) {
     var vm = this;
     vm.allocData = {};
     vm.alloc = {};
@@ -9,7 +9,9 @@ angular.module('folioment')
     vm.labels = [];
     vm.data = [];
 
-    bettermentRiskFactory.getData().success(function(data){
+
+    //Example of a Singleton Design Pattern
+    bettermentRiskService.getData().success(function(data){
       vm.allocData = data;
     });
 
@@ -23,6 +25,7 @@ angular.module('folioment')
       return vm.alloc;
     };
 
+    //Example of the Command Design Pattern
     $scope.$watch('myPortfolio.alloc', function() {
       vm.labels = [];
       vm.data = [];
