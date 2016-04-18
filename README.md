@@ -14,9 +14,8 @@ myPortfolio/myPortfolio.controller.js line:14
 bettermentRiskService
 myPortfolio/myPortfolio.controller.js line:29
 
-# Composite
-.directive
-Not implemented yet.
+# Prototype
+myPortfolio
 
 # Facade
 $http.get()

@@ -24,10 +24,12 @@
           <h3 class="panel-title">Allocation</h3>
         </div>
         <div class="panel-body">
+          <span ng-hide="true">{{myPortfolio.getValue(settings.amount)}}</span>
           <table ng-table="vm.tableParams" class="table">
             <tr ng-repeat="(key, data) in myPortfolio.getAlloc(settings.selected.value)">
               <td title="'Allocation Name'">{{key}}</td>
               <td title="'Allocation Percent'">{{data * 100| number :2 }}%</td>
+              <td title="'Allocation Amount'">{{data * settings.amount | currency}}</td>
             </tr>
           </table>
         </div>
