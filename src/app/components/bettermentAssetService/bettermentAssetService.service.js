@@ -1,8 +1,9 @@
 'use strict';
 
 angular.module('folioment')
-  .service('bettermentAssetService', function () {
-    this.getAsset = function(assetName){
-      return assetName;
+  .service('bettermentAssetService', function ($http) {
+    this.getData = function() {
+      //Example of a Facade design pattern
+      return $http.get("../app/resources/asset-class.json");
     };
   });

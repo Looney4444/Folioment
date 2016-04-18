@@ -1,11 +1,14 @@
 'use strict';
 
 angular.module('folioment')
-  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskService) {
+  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskService,bettermentAssetService) {
     var vm = this;
     vm.allocData = {};
     vm.alloc = {};
     vm.value = {};
+    vm.assetClass = {};
+    vm.asset = {};
+    vm.assetSymble = "";
 
     vm.labels = [];
     vm.data = [];
@@ -52,6 +55,25 @@ angular.module('folioment')
       }
     });
 
+    vm.onClick = function (points) {
+      vm.getAssetClass(points[0].label);
+    };
+
+    //Example of a Singleton Design Pattern
+    bettermentAssetService.getData().success(function(data){
+      vm.assetClass = data;
+    });
+
+    vm.getAssetClass = function(label) {
+      for (var i = 0; i < vm.assetClass.length; i++) {
+        if (vm.assetClass[i].name === label) {
+          var str = vm.assetClass[i].tickersExplanation;
+          vm.assetSymble = str.split(" ")[0].replace(/,/g , "");
+        }
+      }
+      return vm.assetSymble;
+    };
+
 
   });
 
@@ -91,4 +113,3 @@ function MyPortfolio() {
 }
 
 MyPortfolio.prototype = new Portfolio();
-
