@@ -42,20 +42,26 @@
 
   </div>
 </div>
-
-<div class="col-lg-6">
+<div class="col-lg-6" ng-show="myPortfolio.assetSymbol != ''">
   <div class="panel panel-primary">
     <div class="panel-heading">
       <h3 class="panel-title">Market Data</h3>
     </div>
     <div class="panel-body">
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         <div class="panel panel-info">
           <div class="panel-heading">
-            <h3 class="panel-title">JSON</h3>
+            <h3 class="panel-title">{{myPortfolio.assetMovement.Name}} ({{myPortfolio.assetSymbol}})</h3>
           </div>
           <div class="panel-body">
-            {{myPortfolio.assetSymble}}
+            <table ng-table="vm.tableParams" class="table">
+              <tr>
+                <td title="'Days Low'">{{myPortfolio.assetMovement.DaysLow}}</td>
+                <td title="'Days High'">{{myPortfolio.assetMovement.DaysHigh}}</td>
+                <td title="'Change %'">{{myPortfolio.assetMovement.ChangeinPercent}}</td>
+                <td title="'Change Ammount'">{{myPortfolio.assetMovement.Change}}</td>
+              </tr>
+            </table>
           </div>
         </div>
       </div>

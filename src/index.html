@@ -39,10 +39,16 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <li class=""><a href="#myPortfolio">My Portfolio</a></li>
-              <li class=""><a href="#marketData">Market Data</a></li>
               <li class=""><a href="#settings">Settings</a></li>
               <li class=""><a href="#about">About</a></li>
             </ul>
+
+            <form class="col-lg-3 navbar-form pull-right">
+              <div class="input-group">
+                <span class="input-group-addon list-group-item-info" id="basic-addon1"><b>Amount Invested:</b></span>
+                <input type="text" class="form-control" ng-model="settings.amount" placeholder="0.00">
+              </div>
+            </form>
 
             <form class="col-lg-3 navbar-form pull-right">
               <div class="input-group">
@@ -57,13 +63,6 @@
                     </li>
                   </ul>
                 </div>
-              </div>
-            </form>
-
-            <form class="col-lg-3 navbar-form pull-right">
-              <div class="input-group">
-                <span class="input-group-addon list-group-item-info" id="basic-addon1"><b>Amount Invested:</b></span>
-                <input type="text" class="form-control" ng-model="settings.amount" placeholder="0.00">
               </div>
             </form>
 

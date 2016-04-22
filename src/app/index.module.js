@@ -9,6 +9,7 @@
         'ui.router.compat',
         'ui.bootstrap',
         'ngTable',
-        'chart.js']);
+        'chart.js',
+        'highcharts-ng']);
 
 })();

@@ -1,25 +1,34 @@
 'use strict';
 
 angular.module('folioment')
-  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskService,bettermentAssetService) {
+  .filter('prettyJSON', function () {
+    return function(json) { return angular.toJson(json, true); }
+  })
+  .controller('MyPortfolioController', function ($rootScope,$scope,$log,bettermentRiskService,bettermentAssetService,StockDataService) {
     var vm = this;
     vm.allocData = {};
     vm.alloc = {};
     vm.value = {};
     vm.assetClass = {};
     vm.asset = {};
-    vm.assetSymble = "";
+    vm.assetSymbol = "";
 
     vm.labels = [];
     vm.data = [];
 
     var myPortfolio = new MyPortfolio();
 
+    var user = new StockDataService(vm.assetSymbol);
+    user.getStockInfo().then(function() {
+      vm.assetMovement  = user.profile;
+    });
+
+
+
     //Example of a Singleton Design Pattern
     bettermentRiskService.getData().success(function(data){
       vm.allocData = data;
     });
-
 
     vm.getValue = function(value){
       myPortfolio.setValue(value);
@@ -68,10 +77,17 @@ angular.module('folioment')
       for (var i = 0; i < vm.assetClass.length; i++) {
         if (vm.assetClass[i].name === label) {
           var str = vm.assetClass[i].tickersExplanation;
-          vm.assetSymble = str.split(" ")[0].replace(/,/g , "");
+          vm.assetSymbol = str.split(" ")[0].replace(/,/g , "");
         }
       }
-      return vm.assetSymble;
+
+      var info = new StockDataService(vm.assetSymbol);
+      info.getStockInfo().then(function() {
+        $log.debug(info.profile);
+        vm.assetMovement = info.profile.query.results.quote;
+      });
+
+      return vm.assetSymbol;
     };
 
 
